@@ -1,3 +1,6 @@
+https://jul15xn.github.io/school-projects/digital-magazine/
+
+
 - 👋 Hi, I’m @twin1nap
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python, html, css, javascrypt C# and unity
