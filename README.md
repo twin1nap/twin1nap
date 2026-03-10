@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @twin1nap
-- 👀 I’m interested in python, C# and windows forms
-- 🌱 I’m currently learning python and C#
+- 👀 I’m interested in C#, backend and windows forms
+- 🌱 I’m currently learning and C#
 - 😄 Pronouns: he/him
 
 <!---
